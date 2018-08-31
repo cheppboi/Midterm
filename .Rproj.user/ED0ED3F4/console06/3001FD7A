@@ -1,0 +1,35 @@
+[?25l
+[0K[?25hremote: Invalid username or password.[0K[?25l
+fatal: Authentication failed for 'https://github.com/cheppboi/Midterm.git/'[0K
+[0K[?25h[?25l
+[0;32mkirit@DESKTOP-T3PI1G7 [0;35m [0;33m~/Desktop/Lakad Matatag[0;36m (master)[0m[0K
+$[0K
+[0K[?25h[?25l
+[0;32mkirit@DESKTOP-T3PI1G7 [0;35m [0;33m~/Desktop/Lakad Matatag[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l
+[0K[?25h[?25l
+[0;32mkirit@DESKTOP-T3PI1G7 [0;35m [0;33m~/Desktop/Lakad Matatag[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git remote add origin https://github.com/cheppboi/Midterm.git[0K
+[0K[?25hfatal: remote origin already exists.[0K[?25l
+[0K[?25h[?25l
+[0;32mkirit@DESKTOP-T3PI1G7 [0;35m [0;33m~/Desktop/Lakad Matatag[0;36m (master)[0m[0K
+$ git push -u origin master[0K[?25h[?25l
+[0K[?25hEnumerating objects: 3, done.[0K[?25l
+Counting objects: 100% (3/3), done.[0K
+Writing objects: 100% (3/3), 226 bytes | 226.00 KiB/s, done.[0K
+Total 3 (delta 0), reused 0 (delta 0)[0K
+[0K[?25hTo https://github.com/cheppboi/Midterm.git[0K[?25l
+ * [new branch]      master -> master[0K
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h[?25l
+[0;32mkirit@DESKTOP-T3PI1G7 [0;35m [0;33m~/Desktop/Lakad Matatag[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git remote add origin https://github.com/cheppboi/Midterm.git[0K[3G[?25h[?25l
+[0K[?25hfatal: remote origin already exists.[0K[?25l
+[0K[?25h[?25l
+[0;32mkirit@DESKTOP-T3PI1G7 [0;35m [0;33m~/Desktop/Lakad Matatag[0;36m (master)[0m[0K
+$ git push -u origin master[0K[?25h[?25l
+[0K[?25hEverything up-to-date[0K[?25l
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h[?25l
+[0;32mkirit@DESKTOP-T3PI1G7 [0;35m [0;33m~/Desktop/Lakad Matatag[0;36m (master)[0m[0K
+$[0K[3G[?25h

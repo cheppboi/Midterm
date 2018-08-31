@@ -1,0 +1,6 @@
+midetrmseatwork_data <- ("midtermseatwork_data.csv")
+
+midtermseatwork_data <- midtermseatwork_data[data$Ozone > 31, , drop = FALSE]
+midtermseatwork_data.csv <- midtermseatwork_data.subO[midtermseatwork_data.subO$Temp > 90, , drop = FALSE]
+midtermseatwork_data <- na.omit(data.subTO)
+mean(midtermseatwork_data.subTOO$Solar.R)
